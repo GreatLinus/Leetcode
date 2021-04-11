@@ -8,5 +8,6 @@
 #endif //LEETCODE_LONGESTCOMMONPREFIX_H
 
 string longestCommonPrefix(string &str){
+    n
 
 }
